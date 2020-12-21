@@ -1,0 +1,1 @@
+//kucala sam u katalog.html u okviru script taga
